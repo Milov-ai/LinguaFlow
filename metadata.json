@@ -1,0 +1,5 @@
+{
+  "name": "LinguaFlow AI Translator",
+  "description": "An AI-powered translation app that instantly detects the input language and provides accurate translations into English, Spanish, and French. Built with React and powered by Gemini.",
+  "requestFramePermissions": []
+}
