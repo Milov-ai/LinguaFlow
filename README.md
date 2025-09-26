@@ -40,7 +40,7 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/2025ccjrdsg/appinitAgentTranslator.git
+git clone https://github.com/Milov-ai/LinguaFlow.git
 
 ```
 
